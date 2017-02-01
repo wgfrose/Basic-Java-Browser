@@ -1,4 +1,4 @@
-# Basic-Java-Browser
+# Basic Swing Java HTML 3.2 Browser
 The browser project I completed in my first year at University.
 
 # Usage Instructions
